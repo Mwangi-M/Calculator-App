@@ -1,4 +1,4 @@
-package com.pluralsight.calculatorengine;
+package com.calculatorengine;
 
 import java.time.LocalDate;
 import java.util.Scanner;
